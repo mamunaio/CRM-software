@@ -1,0 +1,1 @@
+ALTER TYPE public.activity_entity ADD VALUE IF NOT EXISTS 'deal';
